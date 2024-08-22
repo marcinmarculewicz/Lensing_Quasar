@@ -1,4 +1,6 @@
 # Lensing_Quasar
+![Static Badge](https://img.shields.io/badge/python)
+
 Code for publication: "The disk reverberation mapping of the lensed quasar Q0957+561" Marculewicz et al. 2024
 
 Filenames and description:
