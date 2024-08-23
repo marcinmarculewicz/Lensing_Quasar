@@ -1,5 +1,5 @@
 # Lensing_Quasar
-![Static Badge](https://img.shields.io/badge/Python-blue) ![Static Badge](https://img.shields.io/badge/Reverberation_mapping-black) ![Static Badge](https://img.shields.io/badge/%20Lensed%20quasar-purple) 
+![Static Badge](https://img.shields.io/badge/Python-blue) ![Static Badge](https://img.shields.io/badge/Reverberation_mapping-black) ![Static Badge](https://img.shields.io/badge/%20Lensed%20quasar-purple) \
 ![Static Badge](https://img.shields.io/badge/Release-Official-006600) ![Static Badge](https://img.shields.io/badge/License-BSD_3--Clause-blue)
 
 
